@@ -3,6 +3,7 @@
 """
 from django.core.management import BaseCommand
 
+
 class Command(BaseCommand):
     """ django command to wait for thr DB """
 

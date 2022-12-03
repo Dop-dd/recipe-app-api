@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'core',
     'rest_framework',
-    'dfr_spectacular',
+    'drf_spectacular',
 ]
 
 MIDDLEWARE = [
